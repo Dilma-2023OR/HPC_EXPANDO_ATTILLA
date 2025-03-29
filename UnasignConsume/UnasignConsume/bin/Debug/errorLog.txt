@@ -1,0 +1,2 @@
+22-03-2025 12:27:53,Error al obtener la configuración:No se pudo encontrar el archivo 'C:\Users\dilao\OneDrive - kochind.com\Documents\HPCExpandoAtilla\UnasignConsume\UnasignConsume\bin\Debug\config.ini'.
+22-03-2025 12:58:20,La orden actual no cuenta con BOM
